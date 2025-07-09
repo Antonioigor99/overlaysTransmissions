@@ -12,7 +12,6 @@ const EditOverlays = () => {
     }
     return (
         <>
-
             <form className='w-full flex flex-col items-center justify-center gap-5' onSubmit={handleSubmit}>
                 <p className='text-2xl font-bold'>Edição dos nomes dos times</p>
                 <div className="inputs flex gap-3">
